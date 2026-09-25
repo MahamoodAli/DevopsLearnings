@@ -1,4 +1,3 @@
-# DevopsLearnings
 mahamood-devops-roadmap/
 │
 ├── 00-roadmap/
@@ -120,4 +119,3 @@ mahamood-devops-roadmap/
     ├── cicd.md
     ├── sre.md
     └── scenario-questions.md
-
